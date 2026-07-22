@@ -1,15 +1,15 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/creative-tab-organizer",
   "promos": {
-    "1.20.1-latest": "2.0.0-forge",
-    "1.20.1-recommended": "2.0.0-forge",
-    "1.21.1-latest": "2.0.0-neoforge",
-    "1.21.1-recommended": "2.0.0-neoforge"
+    "1.20.1-latest": "2.1.0-forge",
+    "1.20.1-recommended": "2.1.0-forge",
+    "1.21.1-latest": "2.1.0-neoforge",
+    "1.21.1-recommended": "2.1.0-neoforge"
   },
   "1.20.1": {
-    "2.0.0-forge": "Forge release."
+    "2.1.0-forge": "Forge release."
   },
   "1.21.1": {
-    "2.0.0-neoforge": "NeoForge release."
+    "2.1.0-neoforge": "NeoForge release."
   }
 }
